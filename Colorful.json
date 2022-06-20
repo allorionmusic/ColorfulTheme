@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "name": "Colorful",
+        "author": "Mead#1337",
+        "version": "2.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -16777215,
+        "mention_highlight": -1835008000,
+        "statusbar": -16777215,
+        "active_channel": -16777215,
+        "input_background": -16777215,
+        "background": -16777215,
+        "accent": -65536
+    },
+    "colors": {
+        "link": -16726529,
+        "uikit_btn_bg_color_selector_green": -65536,
+        "uikit_btn_bg_color_selector_red": -65536,
+        "link_500": -16726529,
+        "white_500": -11206401,
+        "primary_dark_200": -6426,
+        "uikit_settings_item_text_color_dark": -16765185,
+        "abc_tint_switch_track": -65536,
+        "brand": -65536,
+        "brand_new_500": -65536,
+        "primary_dark_300": -65536,
+        "primary_dark_360": -65536,
+        "primary_dark_400": -65536,
+        "uikit_btn_compound_color_selector_dark": -65536,
+        "uikit_btn_compound_color_selector_light": -65536
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16735745,
+        "ic_status_dnd_16dp": -16449281,
+        "ic_status_idle_16dp": -261889,
+        "ic_status_streaming_16dp": -5701377,
+        "ic_status_invisible_16dp": -65536,
+        "ic_status_24dp": -16725761,
+        "ic_mobile": -16731137
+    },
+    "raws": {}
+}
