@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Colorful",
         "author": "Mead#1337",
-        "version": "2.0"
+        "version": "2.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/allorionmusic\/ColorfulTheme\/main\/Colorful.json"
     },
     "background": {},
     "fonts": {},
